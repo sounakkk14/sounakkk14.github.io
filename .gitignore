@@ -1,0 +1,4 @@
+# The resume PDF is intentionally kept out of this repo. GitHub Pages requires
+# the repo to be public, and the PDF carries personal contact details.
+# Images (e.g. assets/photo.jpg) are NOT ignored, so a headshot still publishes.
+assets/*.pdf
